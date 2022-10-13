@@ -1,0 +1,19 @@
+{
+    "name": "mishasbankAtm",
+    "version": "1.0.0",
+    "description": "",
+    "main": "mishasbank_app.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node mishasbank_app.js",
+        "dev": "nodemon mishasbank_app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.1.2",
+        "nodemon": "^2.0.20",
+        "prompt-sync": "^4.2.0"
+    }
+}
